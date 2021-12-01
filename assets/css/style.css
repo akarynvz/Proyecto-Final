@@ -1,3 +1,45 @@
+/*Colores>
+Rojo> #EF3638
+Verde> #68D114
+*/
+
 body{
-    background-color: red;
+    background-color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-family: Helvetica;
+    color: #545454;
+    font-size: 20px;
+}
+
+.portada{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+
+
+ /*Titulo rojo y centrado*/
+h2.qeh{
+    text-align: center;
+    color: #EF3638;
+    font-size: 35px;
+}
+
+p.qeh{
+    text-align: center;
+}
+
+/*IMAGENES*/
+    /*imagen de equipo*/
+.equipo{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+}
+
+.im-ladoi{
+    aling: left;
+    width: 30%;
 }
